@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/obrusvit/Unit/trump_move/Hackathon/build/intermediates/res/merged/debug/drawable-mdpi_mrs16.png.flat",
+        "source": "/home/obrusvit/Unit/trump_move/Hackathon/src/main/res/drawable-mdpi/mrs16.png"
+    },
+    {
+        "merged": "/home/obrusvit/Unit/trump_move/Hackathon/build/intermediates/res/merged/debug/layout_activity_main_layout.xml.flat",
+        "source": "/home/obrusvit/Unit/trump_move/Hackathon/src/main/res/layout/activity_main_layout.xml"
+    },
+    {
+        "merged": "/home/obrusvit/Unit/trump_move/Hackathon/build/intermediates/res/merged/debug/drawable-xhdpi_app_banner.png.flat",
+        "source": "/home/obrusvit/Unit/trump_move/Hackathon/src/main/res/drawable-xhdpi/app_banner.png"
+    },
+    {
+        "merged": "/home/obrusvit/Unit/trump_move/Hackathon/build/intermediates/res/merged/debug/drawable-mdpi_app_icon.png.flat",
+        "source": "/home/obrusvit/Unit/trump_move/Hackathon/src/main/res/drawable-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/obrusvit/Unit/trump_move/Hackathon/build/intermediates/res/merged/debug/drawable-mdpi_mrs3.png.flat",
+        "source": "/home/obrusvit/Unit/trump_move/Hackathon/src/main/res/drawable-mdpi/mrs3.png"
+    },
+    {
+        "merged": "/home/obrusvit/Unit/trump_move/Hackathon/build/intermediates/res/merged/debug/layout_detail_layout.xml.flat",
+        "source": "/home/obrusvit/Unit/trump_move/Hackathon/src/main/res/layout/detail_layout.xml"
+    }
+]

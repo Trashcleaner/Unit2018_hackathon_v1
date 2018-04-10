@@ -1,0 +1,4 @@
+#Tue Apr 10 15:47:58 CEST 2018
+base.0=/home/obrusvit/Unit/trump_move/Hackathon/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
